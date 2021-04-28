@@ -1,4 +1,4 @@
-package com.cherry.factory;
+package com.cherry.factory.product;
 
 /**
  * @Author WuRui
